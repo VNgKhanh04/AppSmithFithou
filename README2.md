@@ -6,3 +6,4 @@
 </p>
 
 ## Hướng dẫn cài đặt Appsmith trên Ubuntu
+- Cài môi trường phát triển
